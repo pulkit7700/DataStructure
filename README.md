@@ -1,5 +1,4 @@
-# CookieCutter Data Science Project Folder
-
+# CookieCutter Data Science Structure
 
 ## Overview
 This project is organized to facilitate a structured approach to data science workflows. Below is an outline of the file structure:
