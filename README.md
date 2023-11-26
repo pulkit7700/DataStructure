@@ -51,7 +51,7 @@ This project is organized to facilitate a structured approach to data science wo
 - `src`: Contains the main source code.
 - `config`: Holds project configuration files.
 - `research`: Place for experimental or trial code/notebooks.
-- `app.py`: Main application file.
+- `app.py`: Streamlit Main Application File application file.
 - `data`: Directory to store different stages of data.
 - `models`: Location for trained models or related files.
 - `notebooks`: Jupyter notebooks for exploration and analysis.
